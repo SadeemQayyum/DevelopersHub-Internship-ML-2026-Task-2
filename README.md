@@ -47,6 +47,7 @@ The dataset represents one year of stock price data for a selected company.
 * Minor prediction errors occurred due to market volatility
 
 **Conclusion**
+
 This task demonstrates that Linear Regression can be effectively used for short term stock price prediction. The high accuracy indicates strong model performance, but real world market fluctuations limit perfect predictions. The model is suitable for basic trend analysis and learning purposes.
 
 **How to Run**
